@@ -28,7 +28,7 @@ education:
     - course: PhD in Computer Science and Engineering  
       institution: Ohio State University
 #      year: 2019
-    - course: BS in Electrical Engineering
+    - course: BEng in Electrical Engineering
       institution: Huazhong University of Science and Technology
 #      year: 2008
 
